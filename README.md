@@ -2,7 +2,7 @@
 Logic Lens is a fine-tuned gpt that can be used through chatgpt. This repository is where you can go to check how good of a job it does at retaining logical level-headedness during tough conversations where emotion runs high and mis-communication is rampant.
 
 the document below is the initial plan to kick off the research, I begin by working through the document in backwards order starting with step 8
-[Logic Lens analysis plan.txt](https://github.com/Yearbook-enzyme/Logic-Lens-analysis/files/13928642/Logic.Lens.analysis.plan.txt)
+- [Logic Lens analysis plan.txt](https://github.com/Yearbook-enzyme/Logic-Lens-analysis/files/13928642/Logic.Lens.analysis.plan.txt)
 
 ## Reporting
 ### Community Engagement and Open Source Reporting
