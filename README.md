@@ -6,7 +6,7 @@ the document below is the initial plan to kick off the research, I begin by work
 
 ## Reporting
 ### Community Engagement and Open Source Reporting
-[the link to the repository you are currently reading](https://github.com/Yearbook-enzyme/Logic-Lens-analysis)
+- [the link to the repository you are currently reading](https://github.com/Yearbook-enzyme/Logic-Lens-analysis)
 - Blog Posts and Articles: Share insights and findings through blog posts or articles on platforms like Medium, LinkedIn, or in relevant academic journals.
 
 ### Ethical and Bias Analysis Reporting
