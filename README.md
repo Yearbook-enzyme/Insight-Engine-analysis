@@ -3,7 +3,7 @@ InsightEngine is a gpt that can be used through openai's chatgpt. This repositor
 - [link to Insight Engine](https://chat.openai.com/g/g-HkhV9LTMX-insightengine-critical-thinking-aid)
 
 the document below is the initial plan to kick off the research, I begin by working through the document in backwards order starting with step 8
-- [Insight-Engine-analysis_plan.txt](https://github.com/Yearbook-enzyme/Logic-Lens-analysis/files/13928642/Logic.Lens.analysis.plan.txt)
+- [Insight_Engine_analysis_plan.txt](https://github.com/Yearbook-enzyme/Logic-Lens-analysis/files/13928642/Logic.Lens.analysis.plan.txt)
 
 ## Reporting
 ### Community Engagement and Open Source Reporting
